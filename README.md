@@ -5,6 +5,6 @@
 
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning in CUP at Karamay
-- 📫 How to reach me: wsming01@outlook.com
+- 🌱 I’m currently learning in China University of Petroleum at Karamay
+- 📫 How to reach me:wsming@st.cupk.edu.cn
 -->
